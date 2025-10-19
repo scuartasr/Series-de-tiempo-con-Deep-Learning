@@ -14,3 +14,6 @@ __pycache__/
 migrations/
 # Ignorar archivos estáticos recopilados
 staticfiles/
+# Ignorar archivos de sistema de macOS y checkpoints de notebooks
+.DS_Store
+.ipynb_checkpoints/
